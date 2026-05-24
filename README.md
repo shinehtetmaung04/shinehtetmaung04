@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Shine Htet Maung! 👋
 
-<!--
-**shinehtetmaung04/shinehtetmaung04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I am a student passionate about Computer Science, cloud infrastructure, and building distributed systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 AWS Educate Certifications
+
+[![AWS Introduction to Cloud](https://img.shields.io/badge/AWS_Educate-Introduction_to_Cloud_101-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/shine-htet-maung)
+[![AWS Compute](https://img.shields.io/badge/AWS_Educate-Getting_Started_with_Compute-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/shine-htet-maung)
+[![AWS Storage](https://img.shields.io/badge/AWS_Educate-Getting_Started_with_Storage-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/shine-htet-maung)
+[![AWS Networking](https://img.shields.io/badge/AWS_Educate-Getting_Started_with_Networking-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/shine-htet-maung)
+
+💡 *Click any badge above to verify my credentials on my official [Credly Profile](https://www.credly.com/users/shine-htet-maung).*
+
+---
+
+### 🛠️ Projects Showcase
+Check out some of my recent work pinned below, including my distributed systems architectures and applications!
