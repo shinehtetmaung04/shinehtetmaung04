@@ -1,6 +1,6 @@
 # Hi there, I'm Shine Htet Maung! 👋
 
-Welcome to my profile! I am a student passionate about Computer Science, cloud infrastructure, and building distributed systems.
+Welcome to my profile! I am a student passionate about Computer Science, cloud infrastructure and building distributed systems.
 
 ---
 
