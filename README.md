@@ -11,6 +11,10 @@ Welcome to my profile! I am a student passionate about Computer Science, cloud i
 [![AWS Storage](https://img.shields.io/badge/AWS_Educate-Getting_Started_with_Storage-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/shine-htet-maung)
 [![AWS Networking](https://img.shields.io/badge/AWS_Educate-Getting_Started_with_Networking-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/users/shine-htet-maung)
 
+
+### 📊 Data & Analytics
+[![Coursera Certificate](https://img.shields.io/badge/Coursera-Data_Driven_Decision_Making_(PwC)-0056B3?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/3e4aaf1194908580e2c441ec34a61373)
+
 💡 *Click any badge above to verify my credentials on my official [Credly Profile](https://www.credly.com/users/shine-htet-maung).*
 
 ---
