@@ -13,7 +13,8 @@ Welcome to my profile! I am a student passionate about Computer Science, cloud i
 
 
 ### 📊 Data & Analytics
-[![Coursera Certificate](https://img.shields.io/badge/Coursera-Data_Driven_Decision_Making_(PwC)-0056B3?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/3e4aaf1194908580e2c441ec34a61373)
+[![Google Data Analytics](https://img.shields.io/badge/Coursera-Google_Data_Analytics-0056B3?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/fcf157707a88cfeeac13ee3b807c1198)
+[![PwC Data Driven Decision Making](https://img.shields.io/badge/Coursera-Data_Driven_Decision_Making_(PwC)-0056B3?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org/share/3e4aaf1194908580e2c441ec34a61373)
 
 💡 *Click any badge above to verify my credentials on my official [Credly Profile](https://www.credly.com/users/shine-htet-maung).*
 
